@@ -1,0 +1,2 @@
+prérequis: constitution > 53
+A partir du niveau 18, vous regagnez votre niveau en points de vie temporaire tant que vous avez moins de la moitié de vos points de vie et que vous êtes conscient. Ces points de vie restent pendant 1 tour.

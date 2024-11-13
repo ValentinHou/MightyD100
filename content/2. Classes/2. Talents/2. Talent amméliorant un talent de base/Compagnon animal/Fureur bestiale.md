@@ -1,0 +1,5 @@
+*Prérequis :[Compagnon animal](../../1.%20Talent%20de%20base/Compagnon%20animal.md)* 
+
+À partir du niveau 8, lorsque vous commandez à votre compagnon animal d'attaque, vous pouvez choisir de dépenser deux action au lieu d'une seule pour lui donner 2 action. Il peut alors utiliser [Attaque standard](../../../../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/4.Combat.md#Attaque%20standard) ou utiliser une capacité coutant 2 actions.
+
+Si vous avez plusieurs compagnon animal (via [Second compagnon animal](Second%20compagnon%20animal.md)ou  [Invocation supplémentaire](Invocation%20supplémentaire.md)), vous pouvez choisir de dépenser plusieurs actions pour donner à deux de vos compagnon animal une action supplémentaire qu'ils peuvent utiliser pour faire une [Attaque Rapide](4.Combat.md#Attaque%20Rapide) ou utiliser une capacité coutant 1 action.

@@ -1,0 +1,2 @@
+#aModifier 
+A partir du niveau 6, vous étes considéré comme [Accéléré](../../../../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/7.Etats.md#Accéléré) mais ne pouvez utiliser cette action que pour tenter de vous cacher

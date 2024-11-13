@@ -1,0 +1,3 @@
+*Prérequis: score de caractéristique de médecine > 40*
+
+lorsque vous faite un jet pour [Traiter une maladie](../../../../../../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/10.%20Médecine.md#Traiter%20une%20maladie) ou [Arrêter un empoisonnement](../../../../../../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/10.%20Médecine.md#Arrêter%20un%20empoisonnement), faites un jet contre la difficulté de la maladie. En cas de réussite, vous mettez fin à l'effet de la maladie ou du poison sur la cible.

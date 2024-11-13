@@ -1,0 +1,3 @@
+*Prérequis : [Protection arcanique](Protection%20arcanique/Protection%20arcanique.md)
+
+A partir du niveau 18, lorsque votre protection subis des dégâts, vous pouvez utiliser votre réaction pour la faire détonner, la détruisant en infligeant la moitié des points de vie restants à toutes personnes dans un cercle autour de la personne protégée par la protection. Faites un jet de magie. Toute personne touchée doivent faire un jet d'esquive. en cas d'échec, ils subissent la totalité des dégâts et la moitié en cas de réussite.

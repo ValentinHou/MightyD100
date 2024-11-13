@@ -1,0 +1,2 @@
+Prérequis: constitution > 42
+A partir du niveau 8, une fois par combat, lorsqu’il se prend des dégâts d’une attaque, le joueur peut ignorer les dégâts de cette attaque. Néanmoins il subira ces dégâts ignorés à la fin du combat. 

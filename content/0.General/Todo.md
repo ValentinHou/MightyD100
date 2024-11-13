@@ -1,0 +1,22 @@
+ - [ ] mettre des prérequis de nombre de talent d'un même talent de base (prendre 1 talent de rage avant de pouvoir en prendre un avec un niveau de prérequi de 6-10)
+ - [x] ~~remettre un jet par attaque dans la multi-attaque?~~ NON
+ - [x] ne pas permettre de parer une arme légère avec une arme lourde
+ - [ ] refaire les bonus lié au changement de taille
+ - [ ] remplacer  les bonus de dégâts standard des bonus contextuel par des dmg flat (d10  -> 5, d8  -> 4)?
+ - [x] changer [[Critique brutal]] et augmentation pour multiplier par deux les dégâts bonus de [[../1.Regles generales/1.Regles de jeu/99.option/10. Critique#coup critique]]
+ - [x] retoucher les talent apportant des dégâts bonus (dmg bonus de spécificités, [[../2. Classes/2. Talents/2. Talent amméliorant un talent de base/Contract/Pacte de l’arme magique]], [[../2. Classes/2. Talents/2. Talent amméliorant un talent de base/Sorts/divin/Pretre ou paladin/Arme divine]]) pour permettre d'utiliser des bonus contextuel pour ajouter 1d10 d'un élément (poison, lié à l'élément choisis, lié au patron/dieu, etc).
+ - [x] nerf les sorts "suck or save" (donc pas d'armure et pas d'esquive/blocage) en baissant les dégâts de une valeur de dés.
+ - [x] faire des talent pour faire un sprint ou charge en 2 action si en ligne droite
+ 
+ - [x] refaire l'état "prone"
+ - [x] correction de l'état étourdit pour ne pas impacte la constitution
+ - [ ] faire les autres déplacements
+	 - [ ] escalade
+	 - [ ] nage
+	 - [ ] vol
+	 - [x] chute
+ - [ ] repenser contrôler "étourdir"
+ - [ ] réfléchir aux conséquence de l'état "gelé 10"
+ - [x] ne plus faire dépendre de la constitution le repos perturbé
+ - [ ] changer l'obtention de capacité. A chaque talent ayant en prérequis un talent utilisant un bonus contextuel, une capacitées est donnée. Pour les sorts, chaque talent ayant pour prérequis "sort" offre un sort supplémentaire. Pour chaque talent avec "technologie" comme prérequis, offre une technologie. Le talent "capacité supplémentaire" permet l'obtention immédiate de capacité/sorts/techno
+ - [ ] remplis les trou laissé par la changement dans l'obtention des capacités dans les classe pré faites par des feat (talent autre que combat)

@@ -1,0 +1,5 @@
+*Prérequis : [Marque du chasseur](../../1.%20Talent%20de%20base/Marque%20du%20chasseur.md)*
+
+A partir du niveau 2, lorsque vous prenez l'action de [viser](../../../../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/4.Combat.md#viser), vous pouvez ignorer le bonus habituel et bénéficier à la place des effets suivants:
+- toute [Attaque précise](../../../../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/4.Combat.md#Attaque%20précise) faite contre un créature marqué par marque du chasseur est faite avec un malus de -20 (au lieu de -30).
+- vous pouvez cumuler 2 [Attaque précise](../../../../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/4.Combat.md#Attaque%20précise), cumulant leurs malus et choisissant deux effets différent d'[Attaque précise](../../../../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/4.Combat.md#Attaque%20précise) 

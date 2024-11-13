@@ -1,0 +1,1 @@
+Vous pouvez faire un jet de persuasion immédiatement lorsque vous commencez une conversation. Néanmoins, ce jet ne peut que modifier l'attitude de la cible et ne peut pas directement contribuer à la réussite de la conversation (permet de changer l'attitude amical/neutre/non amical dés le début) 

@@ -1,0 +1,2 @@
+
+A partir du niveau 14, vous gagnez l'état [Accéléré X](../../../../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/7.Etats.md#Accéléré) 1. Néanmoins, vous ne pouvez pas utiliser l'action de cet état pour attaquer, pour vous déplacer ou pour utiliser toute action demandant plus d'une seule actions.

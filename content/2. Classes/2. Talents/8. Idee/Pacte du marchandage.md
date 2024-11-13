@@ -1,0 +1,5 @@
+à intégrer aux options de  [Faveur de pacte](../1.%20Talent%20de%20base/Faveur%20de%20pacte.md)
+Ce talent peut se cumuler à une autre faveur de pacte (*Note MJ: si il y a une limite dans le futur*)
+Ce talent ne donne pas de faveur imédiates. 
+Néanmoins, si vous prenez les talents [Versatilité](Versatilité.md) ou [Versatilité suppérieur](Versatilité%20suppérieur.md), les limitation imposé sur le choix du talent sont supprimé pour le talent [Faveur de pacte](../1.%20Talent%20de%20base/Faveur%20de%20pacte.md) ainsi que pour tout talent dont le prérequis peut étre remplis avec une faveur de pacte que vous connaissez. Ce talent ne pourra néanmoins pas affecter les talent qui restent dans la liste des limitation.
+(par ex: vous pouvez prendre des talent ayant le talent [Changeforme](../1.%20Talent%20de%20base/Changeforme.md) comme prérequis si vous avez le talent [Pacte de l'hôte](Faveur%20de%20pacte#Pacte%20de%20l'hôte) et que ce talent n'affecte que [Pacte de l'hôte](Faveur%20de%20pacte#Pacte%20de%20l'hôte) par exemple)

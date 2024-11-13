@@ -1,0 +1,1 @@
+A partir du niveau 4, vous pouvez parer des projectiles magiques et non magiques avec une arme de mêlée.

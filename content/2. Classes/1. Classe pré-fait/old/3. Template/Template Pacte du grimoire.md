@@ -1,0 +1,4 @@
+- [[Faveur de pacte#Pacte du Grimoire]]
+- [[../../../2. Talents/2. Talent amméliorant un talent de base/Contract/Pacte de l’arme changeante]]
+- [[../../../2. Talents/2. Talent amméliorant un talent de base/Contract/Pacte grimoire/Pacte du grimoire des secrets]]
+- [[../../../2. Talents/2. Talent amméliorant un talent de base/Contract/Pacte grimoire/Pacte du bâton]] ou [[../../../2. Talents/2. Talent amméliorant un talent de base/Contract/Pacte grimoire/Pacte du grimoire des noms]]

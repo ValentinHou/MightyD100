@@ -1,0 +1,6 @@
+- [Template attaque furtive](../Tempates/Template%20attaque%20furtive.md)
+- [Template style de combat](../Tempates/Template%20style%20de%20combat.md)
+- 5x capacitée
+- 2 template au choix
+	- [Template empoisoneur](../Tempates/Template%20empoisoneur.md)
+	- [Template sort arcane mineur](../Tempates/Template%20sort%20arcane%20mineur.md)

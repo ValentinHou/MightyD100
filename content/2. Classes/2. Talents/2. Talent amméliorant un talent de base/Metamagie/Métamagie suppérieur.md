@@ -1,0 +1,2 @@
+*prérequis: [Metamagie](../../1.%20Talent%20de%20base/Metamagie.md)*
+A partir du niveau 12, vous pouvez utiliser deux option de métamagie à la fois lorsque vous lancez un sort coutant plus de 6 points de mana.

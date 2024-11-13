@@ -1,0 +1,4 @@
+prérequis: [Sorts](../../1.%20Talent%20de%20base/Sorts.md) ou [Technologie](../../1.%20Talent%20de%20base/Technologie.md) ou [Faveur de pacte](../../1.%20Talent%20de%20base/Faveur%20de%20pacte.md) avec un patron adapté thématiquement
+
+Vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 18 mètres dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme vous verriez avec une lumière faible. Dans le noir, vous ne discernez pas les couleurs, uniquement des nuances de gris.
+Cet effet se cumule avec tout effet similaire accordé par votre race, doublant sa distance.

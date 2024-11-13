@@ -1,0 +1,2 @@
+*prérequis: [[Versatilité]]*
+A partir du niveau 15, vous pouvez apprendre un second talent ou capacité de la même manière que [Versatilité](Versatilité.md). La limite de niveau de ce talent ci est néanmoins augmenté jusqu'au niveau 14 et 14 points de mana pour les capacités.

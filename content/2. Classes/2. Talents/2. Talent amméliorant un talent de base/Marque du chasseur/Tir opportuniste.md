@@ -1,0 +1,4 @@
+prérequis: [Marque du chasseur](../../1.%20Talent%20de%20base/Marque%20du%20chasseur.md)
+
+A partir du niveau 4, lorsque votre cible marquée tente de se déplacer de plus de 10m (une action) pendant son tour, vous pouvez utiliser une réaction et faire une [Attaque d’opportunité](../../../../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/4.Combat.md#Attaque%20d’opportunité) contre elle.
+Lorsque vous faites une attaque d'opportunité avec une arme à distance en utilisant [Contrôler](../../../../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/4.Combat.md#Contrôler) pour mettre à terre ou agripper (demande un mur derrière la cible pour servir de point d'encrage au projectile), vous pouvez remplacer le jet d'athlétisme par un jet de votre arme à distance

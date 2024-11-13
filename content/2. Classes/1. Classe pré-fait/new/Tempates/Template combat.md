@@ -1,0 +1,5 @@
+- [Attaque double](../../../2.%20Talents/3.%20Talent%20modifant%20un%20méchanique%20de%20base/Actions/Attaque%20double.md) ou [Attaque puissante](../../../2.%20Talents/3.%20Talent%20modifant%20un%20méchanique%20de%20base/Actions/Attaque%20puissante.md)
+- [Attaque supplémentaire](../../../2.%20Talents/3.%20Talent%20modifant%20un%20méchanique%20de%20base/Actions/Attaque%20supplémentaire.md)
+- [Attaque supplémentaire 2](../../../2.%20Talents/3.%20Talent%20modifant%20un%20méchanique%20de%20base/Actions/Attaque%20supplémentaire%202.md)
+- [Mille entailles](../../../2.%20Talents/3.%20Talent%20modifant%20un%20méchanique%20de%20base/Actions/Mille%20entailles.md) ou [Tir focalisé](../../../2.%20Talents/3.%20Talent%20modifant%20un%20méchanique%20de%20base/Actions/Tir%20focalisé.md)
+- [[Maître d’une caractéristique]] ou [[Calculateur]]

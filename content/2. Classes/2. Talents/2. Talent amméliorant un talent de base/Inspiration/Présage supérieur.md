@@ -1,0 +1,3 @@
+*Prérequis : [Présage](Présage.md)*
+
+À partir du niveau 10, les visions de vos rêves s'intensifient et brossent un tableau plus précis dans votre esprit de ce qui va se passer. Lorsque vous tirez vos cartes, tirez un nombre de carte supplémentaire égal à la moitiée du nombre de carte normal (arrondis à l’inf). Choisissez alors un nombre de cartes à garder égal au nombre de cartes normales et défaussez les cartes en trop.

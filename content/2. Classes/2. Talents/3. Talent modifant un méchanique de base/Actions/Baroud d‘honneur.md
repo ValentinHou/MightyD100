@@ -1,0 +1,1 @@
+A partir du niveau 15, lorsque vous tombez à 0 hp et devez tomber dans l'inconscience, vous pouvez faire deux action à votre tour de jeu avant de vous évanouir.

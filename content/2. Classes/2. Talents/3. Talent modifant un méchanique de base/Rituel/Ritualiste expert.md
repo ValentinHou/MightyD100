@@ -1,0 +1,1 @@
+A partir du niveau 17, lancer un sort en rituel ne prend que un nombre de tour supplémentaire égal à son cout en mana divisé par deux. Ainsi, un sort coutant 4 points de mana lancé en rituel ne prendra plus que 3 tour (1 tour de lancé de base + 2 tour via ce talent) à étre lancé.

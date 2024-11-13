@@ -1,0 +1,1 @@
+A partir du niveau 12, lorsque vous ratez un cible ou que vous tirez dans un mur avec une arme à distance, vous pouvez relancer le jet avec une difficulté de -4 pour toucher une cible que vous pouvez atteindre de ce point.

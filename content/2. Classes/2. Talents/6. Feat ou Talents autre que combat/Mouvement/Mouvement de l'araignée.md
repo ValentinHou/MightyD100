@@ -1,0 +1,3 @@
+prérequis: [Sorts](../../1.%20Talent%20de%20base/Sorts.md) ou [Technologie](../../1.%20Talent%20de%20base/Technologie.md) ou [Faveur de pacte](../../1.%20Talent%20de%20base/Faveur%20de%20pacte.md) avec un patron adapté thématiquement
+
+A partir du niveau 8, vous n'avez plus besoin de faire de jet pour grimper un mur ou vous suspendre au plafond. Votre vitesse d'escalade deviens égale à votre vitesse de base.

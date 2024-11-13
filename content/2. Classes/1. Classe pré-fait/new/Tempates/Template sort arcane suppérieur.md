@@ -1,0 +1,5 @@
+- [Sort (arcane)](../../../2.%20Talents/1.%20Talent%20de%20base/Sorts.md#Sort%20(arcane))
+- [Lanceur de sorts expert](../../../2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Sorts/Lanceur%20de%20sorts%20expert.md)
+- [Surcharge Magique](../../../2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Sorts/arcane/Surcharge%20Magique.md) ou [Choc des puissances](../../../2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Sorts/arcane/Choc%20des%20puissances.md)
+- [Capacité supérieur](../../../2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Capacité/Capacité%20supérieur.md)
+- [Sort favori](../../../2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Sorts/arcane/Sort%20favori.md)

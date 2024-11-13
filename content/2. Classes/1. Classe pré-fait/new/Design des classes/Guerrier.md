@@ -1,0 +1,12 @@
+ - [Template combat](../Tempates/Template%20combat.md): fourre tout a tous les talents commun aux guerrier
+- [Template style de combat](../Tempates/Template%20style%20de%20combat.md)
+- capacité: 5 x capacité supplémentaire
+- 2 templates au choix
+	- [Template inspiration base](../Tempates/Template%20inspiration%20base.md)
+	- 5x capacité supplémentaire
+	- [Template sort arcane mineur](../Tempates/Template%20sort%20arcane%20mineur.md)
+	- [Template tank](../Tempates/Template%20tank.md)
+	- [Template combat à main nue](../Tempates/Template%20combat%20à%20main%20nue.md)
+	- [Template Agile](../Tempates/Template%20Agile.md)
+	- [Template critique amélioré](../Tempates/Template%20critique%20amélioré.md)
+	- compagnon animal

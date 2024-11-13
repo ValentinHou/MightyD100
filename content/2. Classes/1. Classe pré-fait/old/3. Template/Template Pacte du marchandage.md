@@ -1,0 +1,5 @@
+- [[Faveur de pacte#Pacte du marchandage]]
+- 
+- [[Versatilité]]
+- 
+- [[Versatilité suppérieur]]

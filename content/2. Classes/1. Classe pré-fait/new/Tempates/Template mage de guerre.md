@@ -1,0 +1,5 @@
+- [Frappe imprégnée](../../../2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Sorts/arcane/Frappe%20imprégnée/Frappe%20imprégnée.md)
+- [Frappe imprégnée supérieure](../../../2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Sorts/arcane/Frappe%20imprégnée/Frappe%20imprégnée%20supérieure.md)
+- [Parade magique](../../../2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Sorts/Parade%20magique.md)
+- [Expertise jet de sauvegarde supplémentaire](../../../2.%20Talents/3.%20Talent%20modifant%20un%20méchanique%20de%20base/Defense/Expertise%20jet%20de%20sauvegarde%20supplémentaire.md)
+- [Surtension](../../../2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Sorts/Surtension.md)

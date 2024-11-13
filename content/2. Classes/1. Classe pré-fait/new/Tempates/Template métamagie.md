@@ -1,0 +1,5 @@
+- [Metamagie](../../../2.%20Talents/1.%20Talent%20de%20base/Metamagie.md)
+- [Metamagie supplémentaire](../../../2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Metamagie/Metamagie%20supplémentaire.md)
+- [Sort accéléré](../../../2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Metamagie/Sort%20accéléré.md) ou [Sort intense](../../../2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Metamagie/Sort%20intense.md) ou [Sort repeté](../../../2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Metamagie/Sort%20repeté.md) ou [Sort truc](../../../2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Metamagie/Sort%20truc.md)
+- [Métamagie suppérieur](../../../2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Metamagie/Métamagie%20suppérieur.md)
+- [Faconneur de sort](../../../2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Metamagie/Faconneur%20de%20sort.md)

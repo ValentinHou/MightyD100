@@ -1,0 +1,3 @@
+Ces terres ont émergé de la mer lors de la chute. Malgré le temps, elles sont resté stériles et ses profondeur n'abritent aucun minerais. 
+
+Le plus grand mont du monde est présent sur cette ile et ses profondeurs semblent abriter d'immenses que des filons de cristaux renfermant du mana. Les population est précaire, due au fait que les compagnie exportant ces cristaux sont aussi responsable de l'import de nourriture, d'eau et de toute matière première.

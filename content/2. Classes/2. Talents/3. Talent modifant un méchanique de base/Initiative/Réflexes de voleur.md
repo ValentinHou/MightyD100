@@ -1,0 +1,2 @@
+prérequis: vitesse > 30
+À partir du niveau 10, vous pouvez jouer deux tours lors du premier round d'un combat. Le premier prend effet après les réussites extrêmes et le second après les réussites normales.

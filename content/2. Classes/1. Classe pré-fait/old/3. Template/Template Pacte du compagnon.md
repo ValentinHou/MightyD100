@@ -1,0 +1,5 @@
+- [[Faveur de pacte#Pacte du compagnon]]
+- [[../../../2. Talents/2. Talent amméliorant un talent de base/Contract/Pacte hote/Pacte du compagnon evasif]]
+- [[Compagnon agrandi]]
+- a
+- [[Compagnon grand]] ou [[Second compagnon animal]]

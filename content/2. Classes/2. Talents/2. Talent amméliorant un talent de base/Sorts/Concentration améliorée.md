@@ -1,0 +1,4 @@
+*Prérequis : [Sorts](../../1.%20Talent%20de%20base/Sorts.md)*
+
+A partir du niveau 16, une fois par tour, utiliser l'action [Se concentrer](../../../../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/14.%20Action%20en%20vrac.md#Se%20concentrer) coute une action en moins si vous vous concentrez sur un sort à concentration active.
+De plus, vous pouvez maintenant vous concentrer sur deux sort demandant une concentration passive. Vous devez néanmoins utiliser l'action [Se concentrer](../../../../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/14.%20Action%20en%20vrac.md#Se%20concentrer)  pour maintenir ces deux sort. Si vous ne le faites pas, un des deux sort s'arrêtera à la fin de votre tour.

@@ -1,0 +1,1 @@
+A partir du niveau 8, faire un jet de force suffis à prolonger votre rage, au lieu d'un jet d'attaque utilisant les bonus de votre rage.

@@ -1,0 +1,12 @@
+Template:
+- [Template sort arcane suppérieur](../Tempates/Template%20sort%20arcane%20suppérieur.md): four tout incluant le premier talent de magie et les talents commun a tous les mages
+- sorts: 5 x sorts supplémentaire
+- sorts: 5 x sorts supplémentaire
+- 2 Template au choix parmi
+	- spé liée a chaque école de magie
+	- spé grimoire transformant le grimoire en presque familier
+	- spé compagnon animal
+	- [Template mage de guerre](../Tempates/Template%20mage%20de%20guerre.md) + [Template style de combat](../Tempates/Template%20style%20de%20combat.md)
+	- spé alchimiste/scribe jouant avec des sort fabriqué en potion/parchemin
+	- [Template métamagie](../Tempates/Template%20métamagie.md): spé méta magie jouant sur la modification des sorts à la volée
+	- [Template ecole protection](../Tempates/Template%20ecole%20protection.md) + spé magie deffensive

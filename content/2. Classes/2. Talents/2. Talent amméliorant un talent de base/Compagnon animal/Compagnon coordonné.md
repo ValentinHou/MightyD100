@@ -1,0 +1,3 @@
+prérequis: [Compagnon animal](../../1.%20Talent%20de%20base/Compagnon%20animal.md), [Rage](../../1.%20Talent%20de%20base/Rage.md) ou [Marque du chasseur](../../1.%20Talent%20de%20base/Marque%20du%20chasseur.md) ou [Rage](../../1.%20Talent%20de%20base/Rage.md) ou [Terrain favoris](../../1.%20Talent%20de%20base/Terrain%20favoris.md)
+A partir du niveau 7, choisissez un talent parmi [Rage](../../1.%20Talent%20de%20base/Rage.md), [Marque du chasseur](../../1.%20Talent%20de%20base/Marque%20du%20chasseur.md) ou [Terrain favoris](../../1.%20Talent%20de%20base/Terrain%20favoris.md). vous devez connaitre le talent pour pouvoir le sélectionner.
+Vous pouvez utiliser les effets de ce talent lorsque vous donnez des bonus contextuels à votre compagnon animal

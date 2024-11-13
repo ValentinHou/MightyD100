@@ -1,0 +1,16 @@
+- [Template technologie](../Tempates/Template%20technologie.md): talent général
+- 5x technologie
+- objet customisé
+	- arme custom
+	- armure custom
+	- compagnon animal mécanique
+- 2 Template parmi:
+	- Mécanicien: [Template combat](../Tempates/Template%20combat.md) + second objet personnalisé (compagnon animal)
+	- techno-mage: 
+		- (spé déffensif)[Template sort arcane suppérieur](../Tempates/Template%20sort%20arcane%20suppérieur.md)  + [Template ecole protection](../Tempates/Template%20ecole%20protection.md) 
+		- (spé elements)[Template sort arcane suppérieur](../Tempates/Template%20sort%20arcane%20suppérieur.md) + spé en feu/glace/foudre (todo pour le mage)
+	- Ingénieur de combat:
+		- (spé arme)[Template combat](../Tempates/Template%20combat.md) + [Template style de combat](../Tempates/Template%20style%20de%20combat.md) 
+		- (spé elements) [Template combat](../Tempates/Template%20combat.md) + spé en feu/glace/foudre
+	- Fabricateur/alchimiste: [Fabrication](../../../2.%20Talents/3.%20Talent%20modifant%20un%20méchanique%20de%20base/Fabrication/Fabrication.md) et 5x technologie
+	- 

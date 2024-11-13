@@ -1,0 +1,1 @@
+**Si il faut baisser les score global** (passer de 100 à 80 pour une majorité de jet): diviser par deux les carac secondaires et ajouter un talent (équivalent à l'expertise dnd) doublant la valeur d'une carac secondaire précise.

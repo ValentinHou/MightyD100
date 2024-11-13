@@ -1,0 +1,3 @@
+*Prérequis: [[Orc]], [[Goliat]], [[Homme bête#Bête terrestre]], [[Warforged#Juggernaut]], [[Dragonborn]], [[3. Races/Liste des Races/Fantasy/Sylvestre|Sylvestre]], [[3. Races/Liste des Races/SF/Sylvestre|Sylvestre]]*
+
+A partir du niveau 10, votre force innée vous permet de manier des armes plus grandes que la normal. Les dégâts des armes que vous pouvez porter augmente de un crans (1d8 -> 1d10 par ex). De plus, vous pouvez monter jusqu'à 72 de force de manière naturelle.

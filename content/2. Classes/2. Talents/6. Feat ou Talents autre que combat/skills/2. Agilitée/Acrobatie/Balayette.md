@@ -1,0 +1,1 @@
+A partir du niveau 9, vous pouvez utiliser votre acrobatique au lui de l'athlétisme lorsque vous utilisez l'action contrôler pour mettre à terre

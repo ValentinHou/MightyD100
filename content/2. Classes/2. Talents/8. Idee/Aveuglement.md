@@ -1,0 +1,2 @@
+a partir du niveau 11, lorsque une créature fait une action à moins de 3m de vous, vous pouvez utiliser votre réaction pour tenter de l'aveugler. 
+Faites un jet d'agilité ou de magie (au choix) opposé à un jet de constitution de sa part. En cas d'échec, elle est alors [[../../../1.Regles generales/1.Regles de jeu/1.Base/7.Etats#Aveuglé]] jusqu'à la fin de son tour.

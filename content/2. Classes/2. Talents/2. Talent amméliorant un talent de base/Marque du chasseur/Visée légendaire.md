@@ -1,0 +1,5 @@
+*Prérequis : [Visée du chasseur](Visée%20du%20chasseur.md)*
+
+A partir du niveau 14, lorsque vous prenez l'action de [viser](../../../../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/4.Combat.md#viser), vous pouvez ignorer le bonus habituel et bénéficier à la place d'un des effets suivant:
+- toute [Attaque précise](../../../../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/4.Combat.md#Attaque%20précise) faite contre un créature marqué par marque du chasseur est faite avec un malus de -10 (au lieu de -30). Vous pouvez cumuler jusqu'à 4 [Attaque précise](../../../../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/4.Combat.md#Attaque%20précise), cumulant leurs malus et choisissant autant d'effets d'[Attaque précise](../../../../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/4.Combat.md#Attaque%20précise) 
+- vous doublez la portée normale et maximal de votre arme lorsque vous tirez sur un cible marquée.

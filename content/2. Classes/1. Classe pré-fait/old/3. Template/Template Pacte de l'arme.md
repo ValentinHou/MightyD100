@@ -1,0 +1,4 @@
+- [[Faveur de pacte#Pacte de l’arme]]
+- [[../../../2. Talents/2. Talent amméliorant un talent de base/Contract/Pacte arme/Pacte de la seconde lame]]
+- [[../../../2. Talents/2. Talent amméliorant un talent de base/Contract/Pacte de l’arme changeante]]
+- [[../../../2. Talents/2. Talent amméliorant un talent de base/Contract/Pacte arme/Pacte de l’arsenal]]

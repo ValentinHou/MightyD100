@@ -1,0 +1,2 @@
+prérequis: [Sorts](../../1.%20Talent%20de%20base/Sorts.md) ou [Technologie](../../1.%20Talent%20de%20base/Technologie.md) ou [Faveur de pacte](../../1.%20Talent%20de%20base/Faveur%20de%20pacte.md) avec un patron adapté thématiquement
+A partir du niveau 16, votre vieillissement naturelle s'arrête et vous devenez immunisé à tout effet visant à vous faire vieillir

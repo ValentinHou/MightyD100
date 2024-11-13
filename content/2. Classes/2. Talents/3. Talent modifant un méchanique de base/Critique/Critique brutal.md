@@ -1,0 +1,5 @@
+*interdit: [Critique amélioré](Critique%20amélioré.md)*
+
+À partir du niveau 8, vous multipliez par 2 les dégâts ajouté par le critique lorsque vous infligez un coup critique avec une arme ou sort.
+
+*(Choisissez entre arme et sort lorsque vous prenez le talent)*

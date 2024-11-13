@@ -1,0 +1,8 @@
+Prérequis: athlétisme > 20 
+A partir du niveau 8, Lorsque vous utilisez un action pour maintenir une personne agrippée, vous pouvez prendre une des option suivantes:
+
+- prise d'étranglement: si la personne veut utiliser sa voix (pour parler/lancer des sorts), elle doit réussir un jet de constitution opposé à un jet de force de votre part. Si elle concentre sur un sort ou un effet, faite immédiatement un jet de force opposé à sa constitution. En cas d'échec de sa part, elle pert sa concentration.
+- Plaquer: si il y a un mur ou un objet de taille grand à portée, vous pouvez plaquer la personne agrippée contre. Elle subis alors 1d10 dégâts
+- clé de bras: vous tentez de désarmer votre cible. Faite  un jet de force opposé à sa constitution. En cas de réussite de votre part, elle lâche l'objet qu'elle tiens dans la main agrippée. Pendant son tour, si elle veut utiliser cette main pour faire une action, elle doit réussir un jet opposé de force contre vous.
+- body slam: vous tentez de projeter la cible que vous agrippez. Faites un jet de force opposé à la sienne. Si vous réussissez, vous l'envoyez dans une case à 10 feet de vous et elle atterris avec l'état "à terre". La portée augmente à 15 feet si vous avez 40 de force , 20 feet si vous en avez 50 et 25 feet si vous en avez 60. Si vous utilisez vos deux action pour faire cela, la cible subis aussi 1d10 à l'atterrissage. Faire cela met fin à l'agrippage.
+- Projection: Faites un jet de force opposé à la sienne. Si vous réussissez, vous la mettez à terre, infligeant  1d10 dégâts. Faire cela met fin à l'aggripage. Si vous utilisez votre tour pour faire cela, vous vous projetez sur elle, doublant les dégâts, ne mettant pas fin à l'aggripage mais vous mettant vous aussi à terre.

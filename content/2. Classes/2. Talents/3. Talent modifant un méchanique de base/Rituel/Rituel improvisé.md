@@ -1,0 +1,1 @@
+A partir du niveau 6, vous pouvez lancer des des sorts dont vous ne connaissez pas l'école. Ces sort sont lancé en rituel mais demandent de payer leur cout en mana. Vous ne pouvez lancer ainsi des sort dont le cout en mana est égal à la moitié de votre niveau.

@@ -1,0 +1,2 @@
+prérequis: [Intervention](Intervention.md)
+A partir du niveau 8, lorsque vous réussissez votre blocage sur une attaque de zone demandant un jet de dextérité, toutes personne derière vous subbis la moitéie des dégats de cette attaque, peut importe leur réussite à leur propre jet.

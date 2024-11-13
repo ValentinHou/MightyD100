@@ -1,0 +1,1 @@
+A partir du niveau 2, vous apprenez à effectuer une attaque, puis vous échappez sans représailles. Pendant votre tour, si vous effectuez une attaque de mêlée avec  un jet d'agilité contre une créature, cette créature ne peut pas utiliser d'attaque d'opportunité.

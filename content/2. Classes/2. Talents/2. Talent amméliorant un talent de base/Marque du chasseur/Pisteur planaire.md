@@ -1,0 +1,1 @@
+A partir du niveau 18, lorsque vous pistez un cible marqué par [Marque du chasseur](../../1.%20Talent%20de%20base/Marque%20du%20chasseur.md), vous réussissez automatiquement le jet afin de suivre cette créature, quelque soit la distance de la cible par rapport à vous.

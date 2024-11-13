@@ -1,0 +1,3 @@
+Au niveau 8, votre charisme vous fait attirer tous les regards en combat. En tant qu'action, vous pouvez faire un test de charisme contesté par le test de volonté d'une créature. La créature doit pouvoir vous entendre et vous devez avoir une langue commune.
+
+Si vous réussissez le test et que la créature vous est hostile, elle a un malus de -20 sur ses jets d'attaque contre des cibles autres que vous et ne peut pas lancer d'attaques d'opportunité contre des cibles autres que vous. Cet effet dure 1 minute, jusqu'à ce qu'un de vos compagnons attaque la cible ou l'affecte par un sort, ou jusqu'à ce que vous et la cible soyez séparés de plus de 20 mètres.

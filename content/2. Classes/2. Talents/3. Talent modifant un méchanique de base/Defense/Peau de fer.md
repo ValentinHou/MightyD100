@@ -1,0 +1,2 @@
+Prérequis: constitution > 49
+A partir du niveau 14, lorsque vous prenez les dégâts d’une attaque sur vos points de vie, vous réduisez les dégâts d’un montant égal au nombre de dés lancé par l’attaquant (par exemple, si vous vous prenez une boule de feu à 4d6 et que vous subissez des dégâts sur vos points de vie, vous réduisez les dégâts de 4). Cette réduction s’applique après les résistances, les vulnérabilité et l’armure

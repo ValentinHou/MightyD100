@@ -1,0 +1,3 @@
+*prérequis: [Technologie](../../1.%20Talent%20de%20base/Technologie.md)*
+
+A partir du niveau 5, vous pouvez attacher un générateur à votre armure/sac, vous permettant de régénérer votre énergie dans certains environnements propices à la génération d’énergie (solaire, vent). Choisissez un de ces environnements. Vous régénérez l’équivalent de la moitié d’un repos court standard toutes les 4h que vous voyagez dans cet environnement.

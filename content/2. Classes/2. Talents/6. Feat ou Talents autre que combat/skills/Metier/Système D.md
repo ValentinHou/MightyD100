@@ -1,0 +1,3 @@
+*prérequis: métier ingénieur ou forgeron*
+
+A partir du niveau 10, Véritable Mike Gyver en puissance, le personnage est capable de réparer n’importe quoi avec presque rien. Une fois tous les 5 niveaux ou par arc narratif, le meneur de jeu devrait lui permettre de réparer ou de créer un mécanisme avec des objets improbables. De plus, le personnage ne subit pas de pénalité à un jet lorsqu’il ne possède pas l’outillage approprié. En revanche, quand il dispose de tout le nécessaire, il peut diviser par 2 le temps nécessaire à une réparation.

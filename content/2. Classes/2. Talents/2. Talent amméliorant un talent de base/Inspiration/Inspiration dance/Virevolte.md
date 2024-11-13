@@ -1,0 +1,3 @@
+*Prérequis : [Danse des lames](Danse%20des%20lames.md)*
+
+A partir du niveau 11, vous gagnez maintenant l'inspiration accordé par [Danse des lames](Danse%20des%20lames.md) aprés avoir utilisé les actions [Défense partielle](../../../../../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/4.Combat.md#Défense%20partielle) ou [Anticiper](../../../../../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/4.Combat.md#Anticiper).

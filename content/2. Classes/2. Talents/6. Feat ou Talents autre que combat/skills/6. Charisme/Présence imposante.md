@@ -1,0 +1,2 @@
+*Prérequis: score de caractéristique charisme> 45*
+A partir du niveau 10, les personnes de niveau inférieur ne peuvent plus opposer  leur volonté à un de vos jet visant à leur donner un ordre (à moins que celui-ci ne les mette directement en danger).

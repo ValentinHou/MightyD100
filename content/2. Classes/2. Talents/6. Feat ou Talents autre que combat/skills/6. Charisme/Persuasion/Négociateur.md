@@ -1,0 +1,2 @@
+*prérequis: persuasion > 20 et charme > 20*
+vous pouvez utiliser votre persuasion pour tenter de séduire une cible. Si vous échouez, la cible ne se rendra pas compte la première fois que vous avez tenté de la charmer

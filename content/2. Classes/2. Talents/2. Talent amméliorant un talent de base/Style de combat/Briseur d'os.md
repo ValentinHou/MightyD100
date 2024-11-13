@@ -1,0 +1,4 @@
+prérequis: force > 42,  [Arme à deux mains](../../1.%20Talent%20de%20base/Style%20de%20combat.md#Arme%20à%20deux%20mains)
+A partir du niveau 3, lorsque vous faites une attaque de mêlée à deux main, vous pouvez maintenant choisir de relancer les dés de dégâts de votre arme même si ils ne sont pas  tombé sur 1 ou 2 (comme demandé par  [Arme à deux mains](../../1.%20Talent%20de%20base/Style%20de%20combat.md#Arme%20à%20deux%20mains)). Si vous le faite, vous subissez des dégâts égal a la nouvelle valeur du dés. Ces dégâts ne peuvent pas étre réduit par des résistance ou de l'armure.
+
+Chaque dés ne peut étre relancé qu'une seul fois, que cela soit par ce talent ou par  [Arme à deux mains](../../1.%20Talent%20de%20base/Style%20de%20combat.md#Arme%20à%20deux%20mains)

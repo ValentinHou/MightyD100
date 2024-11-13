@@ -1,0 +1,12 @@
+Template:
+- [Template inspiration base](../Tempates/Template%20inspiration%20base.md): fourre tout a tous les talents commun aux bardes
+- capacité: 5 x capacité supplémentaire
+- modification de inspiration
+	- [Template Battle dancer](../Tempates/Template%20Battle%20dancer.md)
+	- orienté porteur de bannière (todo)
+	- [Template inspiration lanceur de sort](../Tempates/Template%20inspiration%20lanceur%20de%20sort.md)
+	- [Template inspiration son](../Tempates/Template%20inspiration%20son.md)
+- choix:
+	- [Template sort arcane suppérieur](../Tempates/Template%20sort%20arcane%20suppérieur.md) ou [Template sort divin](../Tempates/Template%20sort%20divin.md)+ 5 x sorts supplémentaire
+	- [Template combat](../Tempates/Template%20combat.md) + [Template style de combat](../Tempates/Template%20style%20de%20combat.md)
+	- [Template sort arcane suppérieur](../Tempates/Template%20sort%20arcane%20suppérieur.md) + compagnon animal invocation

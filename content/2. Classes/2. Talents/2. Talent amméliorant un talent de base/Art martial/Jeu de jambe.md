@@ -1,0 +1,2 @@
+Prérequis: [Art martial](../../1.%20Talent%20de%20base/Art%20martial.md).
+A partir du niveau 4, vous pouvez maintenant déclarer des attaque avec vos jambes alors que vous étes appuyé dessus. Lorsque vous faites cela, vous ne pouvez par la suite pas déclarer d'autre attaques avec vos jambes ou prendre d'action de déplacement.

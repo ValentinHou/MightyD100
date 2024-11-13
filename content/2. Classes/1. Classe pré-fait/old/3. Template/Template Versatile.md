@@ -1,0 +1,5 @@
+- [[../../../2. Talents/3. Talent modifant un méchanique de base/Armes/Entrainement aux armes (mêlée ou distance)]] 
+- [[Style de combat]] ou talent ayant un style de combat en prérequis
+- [[Versatilité]]
+- [[Style de combat]] ou talent ayant un style de combat en prérequis
+- [[Versatilité suppérieur]]

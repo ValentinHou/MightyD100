@@ -1,0 +1,5 @@
+- [[Faveur de pacte#Pacte du démon intérieur]]
+- [[Changeforme rémanente]]
+- [[Changeforme agrandie]]
+- [[../../../2. Talents/2. Talent amméliorant un talent de base/Contract/Pacte hote/Pacte du démon déchaîné]] ou  [[../../../2. Talents/2. Talent amméliorant un talent de base/Contract/Pacte hote/Pacte de l'assimilation]]
+- [[Changeforme  grande]]

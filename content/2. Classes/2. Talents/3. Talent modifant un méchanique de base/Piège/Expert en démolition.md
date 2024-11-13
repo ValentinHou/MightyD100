@@ -1,0 +1,1 @@
+A partir du niveau 3, vos pièges et explosifs infligent le double de dégâts aux structures.

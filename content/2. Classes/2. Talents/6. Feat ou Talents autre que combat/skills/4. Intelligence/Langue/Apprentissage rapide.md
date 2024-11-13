@@ -1,0 +1,2 @@
+*prérequis: langue > 30*
+Si vous écoutez une créature parler dans une langue inconnue pendant plus de 5 min, vous pouvez tenter un jet d'intelligence. en cas de réussite, vous saisissez suffisamment de concept de la langue pour comprendre et faire passer des message simple dans celle ci. Cet effet dure jusqu'au prochain long repos ou au prochain usage de ce talent.

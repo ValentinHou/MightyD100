@@ -1,0 +1,1 @@
+A partir du niveau 4, votre armure vous donne un bonus de +20 pour résister aux effets de température des environnements extrêmes

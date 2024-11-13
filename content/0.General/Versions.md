@@ -1,0 +1,202 @@
+# V 1.8
+- **Règles de jeu**: 
+	- Capacités: 
+		- la dépense de focus/mana max est passé à ***2+ niveau/2*** au lieu de ***niveau***
+		- création des effet permettant d'infliger les états [Hémorragie](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/7.Etats.md#Hémorragie), [Enflammé](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/7.Etats.md#Enflammé), [Empoisoné](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/7.Etats.md#Empoisonné).
+		- redéfinition de la [Sort à concentration](../1.Regles%20generales/3.Capacitees/Effets%20de%20manoeuvres.md#Sort%20à%20concentration) et création de l'action [Se concentrer](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/14.%20Action%20en%20vrac.md#Se%20concentrer).
+		
+	- Critique: 
+		- les coup critique inflige maintenant 5+(1 x le nombre de dés lancé par l'attaque) dégâts supplémentaire au lieu de les multiplier par 2
+		- ajout de possibilité de considérer un jet comme critique si vous battez votre cible de 5 niveau de réussite ou plus.
+		- ajout d'option pour des effets de critique naturel
+	- action: passage sur un système à 3 actions par tour et suppression des action bonus
+		- mouvement: prendre une autre action interrompt tout mouvement.
+	- attaque:
+		- malus d'attaque successives divisé par deux (de -4 à -2).
+	- [3.Création de personnage et montée en niveaux](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/3.Création%20de%20personnage%20et%20montée%20en%20niveaux.md): 
+		- augmentation du gain de caractéristique principale tous les deux niveau: ~~3~~ à 4
+	- [7.Etats](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/7.Etats.md)**: ajout de plusieurs effets et modification d'autres effets
+		- [Accéléré](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/7.Etats.md#Accéléré): ajout 
+		- [Ralentis](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/7.Etats.md#Ralentis): ajout
+		- [Hémorragie](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/7.Etats.md#Hémorragie): ajout
+		- [Enflammé](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/7.Etats.md#Enflammé): ajout
+		- [Empoisoné](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/7.Etats.md#Empoisonné): ajout
+		- [Maudit](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/7.Etats.md#Maudit): rework pour étre une "résistance aux soins"
+		- [Affaiblis](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/7.Etats.md#Affaiblis): ajout
+		- [Fasciné](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/7.Etats.md#Fasciné): ajout
+		- [Attaché](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/7.Etats.md#Attaché): ajout
+		- [Gelé](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/7.Etats.md#Gelé): ajout
+		- [Inconscient](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/7.Etats.md#Inconscient): précision des moyens de se réveiller
+		- [Endormis](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/7.Etats.md#Endormis): précision pour étre lié à l'état inconscient.
+		- [A terre](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/7.Etats.md#A%20terre): adaptation au nouveau système de lancé de jets.
+		- [Etourdis](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/7.Etats.md#Etourdis): les malus n'impactent plus les jets de constitution
+	- [10. Médecine](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/10.%20Médecine.md): ajout des action utilisable avec la compétence médecine
+	- [11. Perception et furtivitée](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/11.%20Perception%20et%20furtivitée.md): détail des règles des types de sens, des niveau de détection et ajout des action utilisables (se cacher, observer, déplacement furtif)
+	- [12. Aider](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/12.%20Aider.md): détails des règles de l'action aider
+	- [13. Invocations et compagnon animal](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/13.%20Invocations%20et%20compagnon%20animal.md): détails des règles des familier, compagnon animal et invocation, notamment sur les actions.
+	- [14. Action en vrac](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/14.%20Action%20en%20vrac.md): ajout d'une section pour noter les effets d'action diverses
+	- [11. Combat modifié](../1.Regles%20generales/1.Regles%20de%20jeu/99.option/11.%20Combat%20modifié.md): ajout d'option pour modifier le déroulé d'un combat
+- **Classes**:
+	- redéfinition des classes par Template
+- **Talents**:
+	- [Aura](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Aura/Aura.md): rewording pour prendre en compte les distance en theater of mind. Création d'une liste d'effet disponible en aura.
+		- [Aura de pestilence](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Aura/Aura%20de%20pestilence.md): rewording pour prendre en compte les distance en theater of mind.
+		- [Aura intensifiée: ](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Aura/Aura%20intensifiée.md): rewording pour prendre en compte les distance en theater of mind.
+	- [Critique brutal](../2.%20Classes/2.%20Talents/3.%20Talent%20modifant%20un%20méchanique%20de%20base/Critique/Critique%20brutal.md) et [Critique brutal II](../2.%20Classes/2.%20Talents/3.%20Talent%20modifant%20un%20méchanique%20de%20base/Critique/Critique%20brutal%20II.md): changement du talent pour multiplier par 2/3 les dégâts supplémentaire accordé par le coup critique (lié au changement du fait que les critiques n'infligent plus le double des dégâts)
+	- [Lanceur de sorts expert](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Sorts/Lanceur%20de%20sorts%20expert.md): ajout d'un talent permettant d'augmenter la dépense de mana max par tour en échange de bonus contextuel (pour "contrebalancer" le changement des capacité plus haut)
+	- [Action rapide supplémentaire](../2.%20Classes/2.%20Talents/3.%20Talent%20modifant%20un%20méchanique%20de%20base/Action%20bonus/Action%20rapide%20supplémentaire.md) (ancien action bonus supplémentaire): Rework a cause de la suppression des action bonus. Accorde une action supplémentaire mais ne peut étre utilisé pour attaquer ou se déplacer.
+	- [Style de combat](../2.%20Classes/2.%20Talents/1.%20Talent%20de%20base/Style%20de%20combat.md): rework des style de combat qui utilisaient des action bonus
+		- [[Style de combat#Run and gun]]: supprimé pour étre fusionné à [Coureur des steppes](../2.%20Classes/2.%20Talents/1.%20Talent%20de%20base/Style%20de%20combat.md#Coureur%20des%20steppes)
+		- [Combat à deux armes](../2.%20Classes/2.%20Talents/1.%20Talent%20de%20base/Style%20de%20combat.md#Combat%20à%20deux%20armes): ajout d'une action pour deus action permettant de faire deux attaque sans malus d'attaque successives.
+		- [Hoplite](../2.%20Classes/2.%20Talents/1.%20Talent%20de%20base/Style%20de%20combat.md#Hoplite)
+		- [Coureur des steppes](../2.%20Classes/2.%20Talents/1.%20Talent%20de%20base/Style%20de%20combat.md#Coureur%20des%20steppes): changement pour généraliser à tout type d'attaque (plus seulement le tir). Attaquer n'interrompt plus le mouvement
+		- [Duel](../2.%20Classes/2.%20Talents/1.%20Talent%20de%20base/Style%20de%20combat.md#Duel): changement des bonus accordé par le bonus
+	- [Ecole de magie](../2.%20Classes/2.%20Talents/4.%20Ecoles%20de%20magie%20ou%20de%20technologie/Ecole%20de%20magie.md):
+		- [Ecole du feu](../2.%20Classes/2.%20Talents/4.%20Ecoles%20de%20magie%20ou%20de%20technologie/Ecole%20de%20magie.md#Ecole%20du%20feu): rework pour interagir avec l'effet [Enflammé](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/7.Etats.md#Enflammé)
+		- [Ecole de la foudre](../2.%20Classes/2.%20Talents/4.%20Ecoles%20de%20magie%20ou%20de%20technologie/Ecole%20de%20magie.md#Ecole%20de%20la%20foudre): ajout de possibilité d'utiliser l'effet principale avec les dés de dégâts explosif
+		- [Ecole du sang](../2.%20Classes/2.%20Talents/4.%20Ecoles%20de%20magie%20ou%20de%20technologie/Ecole%20de%20magie.md#Ecole%20du%20sang): rework (encore).
+	 - [Méditation](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Sorts/divin/Méditation.md): rework pour permettre de prendre une repos court en seulement 10 min.
+	 - [Pacte de l’arme magique](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Contract/Pacte%20de%20l’arme%20magique.md): Rework. Permet d'ajouter des dégâts bonus contre un bonus contextuel
+	 - [Arme divine](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Sorts/divin/Pretre%20ou%20paladin/Arme%20divine.md): Rework. Permet d'ajouter des dégâts bonus contre un bonus contextuel
+	 - [Changeforme](../2.%20Classes/2.%20Talents/1.%20Talent%20de%20base/Changeforme.md): Rework de arme empoisonnée. Permet d'ajouter des dégâts bonus contre un bonus contextuel
+	 - [Compagnon animal](../2.%20Classes/2.%20Talents/1.%20Talent%20de%20base/Compagnon%20animal.md): Rework de arme empoisonnée. Permet d'ajouter des dégâts bonus contre un bonus contextuel
+	 - [Arme customisé](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Technologie/Objet%20customisé/Arme%20customisé/Arme%20customisé.md): ajout de détail sur le fonctionnement
+	 - [Poison avancé](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Attaque%20furtive/Arme%20empoisonnée/Poison%20avancé.md): rework de poison  violent pour infliger l'état [Empoisoné](../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/7.Etats.md#Empoisonné).
+	 - [Critique opportuniste](../2.%20Classes/2.%20Talents/3.%20Talent%20modifant%20un%20méchanique%20de%20base/Reaction/Critique%20opportuniste.md): ajout
+	 - [Tir opportuniste](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Marque%20du%20chasseur/Tir%20opportuniste.md): ajout
+	 - [Attaque puissante](../2.%20Classes/2.%20Talents/3.%20Talent%20modifant%20un%20méchanique%20de%20base/Actions/Attaque%20puissante.md): précision sur le fait que les dégâts supplémentaire ne sont pas considéré comme des dégâts de l'arme
+	 - [Volonté de fer](../2.%20Classes/2.%20Talents/6.%20Feat%20ou%20Talents%20autre%20que%20combat/skills/7.%20Volontée/Volonté%20de%20fer.md): rework pour réduire les effet de peur
+	 - [Expertise jet de sauvegarde supplémentaire](../2.%20Classes/2.%20Talents/3.%20Talent%20modifant%20un%20méchanique%20de%20base/Defense/Expertise%20jet%20de%20sauvegarde%20supplémentaire.md): rework pour devenir un équivalent générique au talent dnd "réussite sur jet de dex save: pas de dégâts"
+	 - [Attaque supplémentaire](../2.%20Classes/2.%20Talents/3.%20Talent%20modifant%20un%20méchanique%20de%20base/Actions/Attaque%20supplémentaire.md): lorsque l'on utilise une action d'attaque utilisant 2 actions, réduit le malus de multi attaque à -1 au lieu de -2.
+	 - [Endurance](../2.%20Classes/2.%20Talents/3.%20Talent%20modifant%20un%20méchanique%20de%20base/Defense/Endurance.md): ajout
+	 - [Inspiration](../2.%20Classes/2.%20Talents/1.%20Talent%20de%20base/Inspiration.md): rework
+		 - [Inspiration martiale](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Inspiration/Inspiration%20martiale.md): rewording pour suivre le rework d'inspiration
+		 - [Tout ou rien](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Inspiration/Tout%20ou%20rien.md):rewording pour suivre le rework d'inspiration 
+		 - [Inspirer à l’action](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Inspiration/Inspirer%20à%20l’action.md): rewording pour suivre le rework d'inspiration
+		 - [Introduction](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Inspiration/Introduction.md):la réaction peut maintent étre prise au début du tour d'un allié
+		 - [Artiste hors pair](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Inspiration/Artiste%20hors%20pair.md): rewording pour suivre le rework d'inspiration 
+		 - [Ode aux héros](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Inspiration/Inspiration%20vocale/Ode%20aux%20héros.md): rewording pour suivre le rework d'inspiration
+		 - [Enchainement](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Inspiration/Inspiration%20dance/Enchainement.md): rewording pour suivre le rework d'inspiration
+		 - [Encore !](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Inspiration/Encore%20!.md): rewording pour suivre le rework d'inspiration
+		 - [Danse captivante](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Inspiration/Inspiration%20dance/Danse%20captivante.md): ajout
+		 - [Odes émouvantes](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Inspiration/Inspiration%20vocale/Odes%20émouvantes.md): ajout
+		 - [Destin lié](../6.%20working%20area/2.%20talents/Destin%20lié.md): destiné à suppression
+		 - [Ballade entrainente](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Inspiration/Inspiration%20vocale/Ballade%20entrainente.md) ajout
+	- [Attaque effrayante](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Style%20de%20combat/Attaque%20effrayante.md): ajout
+	- [Attaque controlante](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Style%20de%20combat/Attaque%20controlante.md): ajout
+	- [Grimoire sentient](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Sorts/arcane/Outil%20spellcasting/Grimoire%20sentient.md): ajout
+	- [Frappe imprégnée](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Sorts/arcane/Frappe%20imprégnée/Frappe%20imprégnée.md): ajout
+	- [Armure customisé](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Technologie/Objet%20customisé/Armure%20customisé/Armure%20customisé.md): ajout en équivalent de [Arme customisé](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Technologie/Objet%20customisé/Arme%20customisé/Arme%20customisé.md)
+		- [Alliage agent pur](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Technologie/Objet%20customisé/Arme%20customisé/Alliage%20agent%20pur.md), [Arme transformable amélioré](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Technologie/Objet%20customisé/Arme%20customisé/Arme%20transformable%20amélioré.md), [Overwrite](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Technologie/Objet%20customisé/Arme%20customisé/Overwrite.md), [Overwrite suppérieur](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Technologie/Objet%20customisé/Arme%20customisé/Overwrite%20suppérieur.md), [Arme intégré améliorée](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Technologie/Objet%20customisé/Armure%20customisé/Arme%20intégré%20améliorée.md),[Bouclier intégré amélioré](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Technologie/Objet%20customisé/Armure%20customisé/Bouclier%20intégré%20amélioré.md), [Bras méchanique](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Technologie/Objet%20customisé/Armure%20customisé/Bras%20méchanique.md), [Grappin intégré](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Technologie/Objet%20customisé/Armure%20customisé/Grappin%20intégré.md), [Mini arbalète](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Technologie/Objet%20customisé/Armure%20customisé/Mini%20arbalète.md),[Mini outil de lancer de sorts](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Technologie/Objet%20customisé/Armure%20customisé/Mini%20outil%20de%20lancer%20de%20sorts.md), [Alliage impossible](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Technologie/Objet%20customisé/Alliage%20impossible.md),[Objet customisé - Récupérateur](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Technologie/Objet%20customisé/Objet%20customisé%20-%20Récupérateur.md), [Système autonome](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Technologie/Objet%20customisé/Système%20autonome.md), [Système de control de température](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Technologie/Objet%20customisé/Armure%20customisé/Système%20de%20control%20de%20température.md): ajout
+	- [Pacte de la main](../2.%20Classes/2.%20Talents/1.%20Talent%20de%20base/Faveur%20de%20pacte.md#Pacte%20de%20la%20main): rework retirant la propriété permettant de la faufiler et ajoutant la possibilité de pouvoir la considérer comme un outil permettant de lancer des sorts.
+	- [Compagnon indépendant](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Compagnon%20animal/Compagnon%20indépendant.md): ajout
+	- [Condensateur performant](../2.%20Classes/2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Technologie/Condensateur%20performant.md): ajout de l'option pour la réduction du cout des capacité pour les technologies.
+	- [Sprinteur](../2.%20Classes/2.%20Talents/6.%20Feat%20ou%20Talents%20autre%20que%20combat/skills/2.%20Agilitée/Vitesse/Sprinteur.md): ajout
+- **Races**:
+	- [Orc](../3.%20Races/Liste%20des%20Races/Fantasy/Orc.md): précision pour leur talent racial krit ki krit pour indiquer qu'il double tout dégâts bonus lié au coup critiques en cas d'activation (permet donc d'infliger 6x les dégâts bonus de coup critique avec [Critique brutal II](../2.%20Classes/2.%20Talents/3.%20Talent%20modifant%20un%20méchanique%20de%20base/Critique/Critique%20brutal%20II.md))
+	- Talents:
+		- [Ailes de mort](../3.%20Races/Talent%20des%20races/Dragonborn/Ailes%20de%20mort.md): ajout
+- **Equipements**:
+	- [Armure](../4.%20Equipement%20et%20items/Equipement%20personel/Armures/Armure.md): Ajout des armures et des malus lié aux armures lourdes. 
+	- [Armes de mêlée](../4.%20Equipement%20et%20items/Equipement%20personel/Armes/Armes%20de%20mêlée.md): ajout de propriété et de classification d'armes. Lien des propriété sur la liste des armes
+	- [amélioration d'équipement](../4.%20Equipement%20et%20items/Equipement%20personel/amélioration%20d'équipement.md): ajout des améliorations pour les armes magiques et des matériaux des objets magiques
+- Git:
+	- Ajout d'une auto backup sur git et d'un intégration à gitbook
+# V1.7
+- Changement sur les règles du système général pour le mettre sur la base Warhammer
+- ajout de l'action [[1. Regles_generales/1.Regles_de_jeu/1.Base/4. Combat#Prendre l'initiative]] et du talent [[../2. Classes/2. Talents/6. Feat ou Talents autre que combat/skills/2. Agilitée/Vitesse/Temps d'avance]]
+- Rework de [[Art martial]] : Art martial donne maintenant des équivalent à des armes réels 
+- Rework de [[Arme martiale]]: ce talent permet d'utiliser certaines armes en utilisant la carac secondaire "art martial"
+- buff de [[Frappe de Ki]]: si vous avez des sort ou des techno, vous pouvez changer le type de dégâts de vos attaque d'art martial
+- ajout de [[Sensei]]
+- ajout de [[../2. Classes/2. Talents/8. Idee/Marche sur l'eau]]
+- ajout de beaucoup de talent hors combat
+- ajout de prérequis en caractéristique sur les talents hors combat et les talents de base
+- ajout de [[Assault enragé]]
+- ajout de [[Aveuglement]]
+- renommage du pacte du démon en [[Faveur de pacte#Pacte de l'hôte]], Rework de [[../2. Classes/2. Talents/2. Talent amméliorant un talent de base/Contract/Pacte hote/Pacte de l'assimilation]] (ancien pacte du démon contrôlé) et [[../2. Classes/2. Talents/2. Talent amméliorant un talent de base/Contract/Pacte hote/Pacte du démon déchaîné]].
+- Changement de [[Posture]] pour demander une action normale pour activer les postures
+- Rework de [[Ecole de magie#Ecole arcanique]], [[Ecole de magie#Ecole du vide]], [[Ecole de magie#Ecole de la bête]], [[Ecole de magie#Ecole du feu]]
+- ajout de [[Ecole de magie#Ecole télékinésie]]
+- [[../2. Classes/2. Talents/2. Talent amméliorant un talent de base/Attaque furtive/Arme empoisonnée/Poison avancé]] et [[../2. Classes/2. Talents/2. Talent amméliorant un talent de base/Attaque furtive/Arme empoisonnée/Maître empoisonneur]]: le jet de constitution doit avoir une réussite supérieur à la moitié de celui du jet d'attaque pour étre réussit.
+- inversion des notes de changement de version pour les afficher de la plus récente à la plus ancienne.
+- Changement du passif des [[Scion#Nature]]
+- changement sur la mécanique de [[1. Regles_generales/1.Regles_de_jeu/1.Base/6. Repos#REPOS LONG]], des états [[1. Regles_generales/1.Regles_de_jeu/1.Base/7.Etats#MORT]],  [[1. Regles_generales/1.Regles_de_jeu/1.Base/7.Etats#FATIGUE X]],  [[1. Regles_generales/1.Regles_de_jeu/1.Base/7.Etats#BOURRÉ X]]
+- ajout de règles optionnel pour le voyage et la météo [[1. Regles_generales/1.Regles_de_jeu/99.option/6. Voyages & météo]].
+- Rework de [[Capacité supérieur]] pour réduire le cout de focus
+- rework de [[Capacité martiale]] et Mage de guerre pour les rendre plus généraux sur le type d'action impacté.
+- changement des règles pour [[1. Regles_generales/1.Regles_de_jeu/1.Base/8. Santé mentale et folie]] et ajout de  [[1. Regles_generales/1.Regles_de_jeu/99.option/7. Corruption]]
+- ajout de [[Oracle]]
+- changement de [[3. Races/Liste des Races/Fantasy/Sylvestre#Tréant|Sylvestre#Tréant]] pour la version fantasy et SF
+- un personnage niveau 1 ne peut mettre que 10 points max dans une carac secondaire (contre 20 points avant). Cela permet de limiter la puissance a bas niveau ainsi que de retarder le moment où un personnage atteint le cap de 40 (niveau 15 contre niveau 10 précédemment).
+- buff de [[../2. Classes/2. Talents/2. Talent amméliorant un talent de base/Sorts/divin/Pretre ou paladin/Prière divine]] en ajoutant un bonus de 5 flat à la range à atteindre pour obtenir une intervention de la divinité (pour avoir un équivalent aux réussite critique)
+- rewording de [[Attaque furtive]], [[Rage]], [[Marque du chasseur]], [[Attaque double]], [[Attaque puissante]] et talents qui y sont lié pour s'adapter au changement des [[1. Regles_generales/1.Regles_de_jeu/1.Base/9. Bonus contextuel]].
+
+- changement sur [[Rage]] pour donner une malus sur l'esquive et le blocage
+- changement sur l'attaque téméraire pour permettre de faire une action viser pour une réaction.
+
+- fix de [[Inspiration]] pour limiter à une inspiration utilisée par jet.
+- changement sur [[../2. Classes/2. Talents/8. Idee/Chant de restauration]], [[Inspiration martiale]] afin de rester en accord avec la régle de "une inspiration par jet" et empécher le cumul d'inspiration
+- changement sur[[Présage]], maintenant les cartes peuvent étre utilisé en remplacement de dés d'inspiration classique lorsque le joueur donne ses inspiration via l'action inspirer.
+
+- changement de [[Warforged]] et [[Android - Gynoid]] pour avoir un système de repos moins pénalisant
+- MAJ du plugin de création de perso
+
+- Ajout de [[Jeu de jambe]] et [[Vengeance]]
+## Todo
+-
+# V1.6
+- ajout des talent [[Action rapide supplémentaire]], [[Viens par là]], [[Marque magique]], [[Combinaison]], [[../2. Classes/2. Talents/6. Feat ou Talents autre que combat/skills/6. Charisme/Séduction/Jeux de séduction]], [[../2. Classes/2. Talents/6. Feat ou Talents autre que combat/skills/6. Charisme/Intimidation/Tas de muscle]], [[../2. Classes/2. Talents/6. Feat ou Talents autre que combat/Connexion]]
+- nerf de [[Marque du chasseur]], pour aligner les bonus à la touche et aux dmg avec la rage.
+- remaniement de [[Rage]], suppression des talents rage sort et rage focalisé car mergé en un seule talent.
+- changement des talent [[Rage frénétique]] et [[2. Classes/2. Talents/2. Talent amméliorant un talent de base/Rage/Rage implacable]]
+- changement de [[../6. working area/2. talents/Posture de shogun]] pour mettre un scaling progressif.
+- changement du niveau prérequis de beaucoup de talent lié à [[Posture]]
+- [[Tir focalisé]] et [[Mille entailles]] ne sont plus des maitrises
+- ajout de [[1. Regles_generales/1.Regles_de_jeu/1.Base/9. Bonus contextuel]] afin de fixer les limitation sur le cumul de talents
+- Rework de [[Fureur bestiale]] pour le passer sur le nouveau système d'actions.
+- augmentation des dégâts de [[Attaque furtive]] en passant de d6 à d8
+- changement de [[Posture ésotérique]] pour demander une action à activer ainsi que la concentration.
+- suppression de tir de barrage et de tempête de lame
+- Rework des talents raciaux "entrainement aux armes X" et ajout de ce talent pour les hommes bêtes, Tieling, rakoon et humain.
+- retrait du talent de race [[Puissamment bâtit]] des classes de base, ajout d'un niveau de prérequis (niveau 10) et ajout de nouvelle race pouvant en bénéficier*
+- ajout de prérequis de score de caractéristique primaire/secondaire sur certain talent autre que combat.
+
+# V 1.5
+
+- précision sur le talent de la sous race [[Mantis#Ouvrier]] pour ne pouvoir porter que des objet léger avec les bras individuels
+- Ajout de la race des [[Warforged]]
+- Création des talent [[../2. Classes/2. Talents/8. Idee/Mutation]], [[Obligation contractuelle]], [[Brulure mentale]],  [[../2. Classes/2. Talents/8. Idee/Chant de restauration]], [[../2. Classes/2. Talents/6. Feat ou Talents autre que combat/skills/2. Agilitée/Conduite/As du pilotage]], [[../2. Classes/2. Talents/6. Feat ou Talents autre que combat/skills/2. Agilitée/Conduite/En un seul morceau]], [[Changeforme chimérique]], [[Changeforme hybride]]
+- Nerf [[Ecole de magie#Ecole du sang]]
+- Modification de la mécanisme des sorts  [[1. Regles_generales/3. Capacitées/Effets de manoeuvres#Invocation]]
+- Modification des maitrises [[Lié à une école#Maîtrise de la force bestiale]], [[Lié à une école#Maîtrise de l’armée infernale]], [[Lié à une école#Maîtrise de la chasse sauvage]]
+- Modification de [[Inspiration martiale]] pour retirer les hp temps
+- réorganisation des fichier
+- Ajout des règles de base [[1. Regles_generales/1.Regles_de_jeu/1.Base/2. Caractéristique des personnages]], [[1. Regles_generales/1.Regles_de_jeu/1.Base/3. Création de personnage et montée en niveaux]], [[1. Regles_generales/1.Regles_de_jeu/1.Base/4. Combat]], [[1. Regles_generales/1.Regles_de_jeu/1.Base/6. Repos]], [[1. Regles_generales/1.Regles_de_jeu/1.Base/7.Etats]], [[1. Regles_generales/1.Regles_de_jeu/1.Base/8. Santé mentale et folie]] et [[1. Regles_generales/1.Regles_de_jeu/99.option/-- Option]].
+- correction du niveau de prérequis de [[Aura intensifiée]]
+- Ajout des effets de contresort et de dispell dans [[1. Regles_generales/3. Capacitées/Effets de manoeuvres#Effets spécials]]
+- création de carac secondaire [[1. Regles_generales/1.Regles_de_jeu/1.Base/2. Caractéristique des personnages#Finesse (agilité)]], fusion des ancienne carac crochetage et pickpocket.
+- création de carac secondaire [[1. Regles_generales/1.Regles_de_jeu/1.Base/2. Caractéristique des personnages#Physique (constitution)]]
+- redéfinition de [[Changeforme aberrante]]
+- Edition du rework de l'attaque multiple dans [[4.1 Actions]]
+- tag de [[changeforme mécha]] comme à  rework, modifier ou supprimer
+- Rework de [[../2. Classes/2. Talents/6. Feat ou Talents autre que combat/skills/6. Charisme/Influenceur]]
+- ajout d'un effet de contresort pour les martiaux sur [[Chasseur de mage]]
+
+# V 1.4
+
+- Limiter les talents [[Attaque furtive]], [[Rage]], [[Marque du chasseur]] et [[Inspiration]] pour faire scale leurs effets sur le nombre de talent appris le demandant en prérequis
+- Nerf de [[Attaque furtive]] pour atteindre 5d6 au niveau max
+- Les talents [[Compagnon animal]] et [[2. Classes/2. Talents/1. Talent de base/Changeforme]] ne gagnent plus de dégâts avec les niveau. Des objets pourront apporter ces bonus.
+- Nerf de [[../2. Classes/2. Talents/3. Talent modifant un méchanique de base/Actions/Provoquer]] pour que un ennemis affecté ne pouvant pas vous atteindre avec son équipement actuel ignore le malus
+- Nerf de [[Charme envoutant]] pour n'être efficace que au cac
+- [[Faveur de pacte]] ne peut maintenant étre pris qu'une fois tout les 5 niveaux.
+- [[Faveur de pacte#Pacte du Grimoire]] peut maintenant utiliser la perception ou l'intelligence (choix lorsque le talent est appris).
+- [[Faveur de pacte#Pacte du Grimoire]] apprend maintenant deux école utilisable uniquement avec des sorts improvisé.
+- Talent chauffer le canon supprimé
+- Ajout des races existantes
+- Changement des [[Elfes#Haut-elfe]],  leur talent racial leur permet désormais de lancer des sorts improvisé même si ils ne connaissent pas de sort.
+- Ajout des talents de race existants
+- Changement de [[Combat à armes multiples]] pour n'étre utilisable qu'une fois par tour. En attendant une meilleur version.
+- Reword les carac principal bonus des race [[3. Races/Liste des Races/Fantasy/Humain]], [[3. Races/Liste des Races/SF/Humain]], [[Homme bête]] et [[Android - Gynoid]]
+- Nerf de [[Rage frénétique]]. L'attaque bonus n'est possible qu'aprés une attaque. permet d'eviter de faire autre choses de ses action et de ne faire qu'une attaque avec une action bonus.

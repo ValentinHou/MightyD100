@@ -1,0 +1,1 @@
+A partir du niveau 18, si vous échouez un jet visant à détecter un piège, le maître du jeu doit vous indiquer que vos sens vous font percevoir un danger. De plus, si vous voyez un piège, vous n’avez pas de jet à faire pour ne pas le déclencher (si il y a un moyen de passer sans le déclencher)

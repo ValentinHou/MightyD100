@@ -1,0 +1,1 @@
+Lorsque vous faite un coup critique sur une [Attaque d’opportunité](../../../../1.Regles%20generales/1.Regles%20de%20jeu/1.Base/4.Combat.md#Attaque%20d’opportunité), vous regagnez votre réaction immédiatement.

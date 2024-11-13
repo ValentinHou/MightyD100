@@ -1,0 +1,1 @@
+A partir du niveau 17, lorsque un ennemis commence son tour, vous pouvez utiliser ce talent pour gagner une réaction supplémentaire utilisable uniquement pendant le tour de cet ennemis. Vous devez attendre la fin de votre prochain tour avant de pouvoir réutiliser ce talent.

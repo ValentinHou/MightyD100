@@ -1,0 +1,5 @@
+- [Inspiration](../../../2.%20Talents/1.%20Talent%20de%20base/Inspiration.md)
+- [Inspiration martiale](../../../2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Inspiration/Inspiration%20martiale.md)
+- [Introduction](../../../2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Inspiration/Introduction.md) ou [Encore !](../../../2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Inspiration/Encore%20!.md)
+- [Artiste hors pair](../../../2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Inspiration/Artiste%20hors%20pair.md) ou [Tout ou rien](../../../2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Inspiration/Tout%20ou%20rien.md)
+- [Inspirer à l’action](../../../2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Inspiration/Inspirer%20à%20l’action.md)

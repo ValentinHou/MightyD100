@@ -1,0 +1,8 @@
+- [Template combat à main nue](../Tempates/Template%20combat%20à%20main%20nue.md)
+- [Template posture](../Tempates/Template%20posture.md)
+- 5* capacité supp
+- au choix:
+	- [Template sort divin](../Tempates/Template%20sort%20divin.md) + 5* sorts supp
+	- rage + [Template tank](../Tempates/Template%20tank.md)?
+	- [Template style de combat](../Tempates/Template%20style%20de%20combat.md) + [Arme martiale](../../../2.%20Talents/2.%20Talent%20amméliorant%20un%20talent%20de%20base/Art%20martial/Arme%20martiale.md)
+	- attaque furtive + [Template Agile](../Tempates/Template%20Agile.md)?

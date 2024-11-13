@@ -1,0 +1,1 @@
+A partir du niveau 6, vous mettez une action standard pour poser un piège au lieu de 1 min. De plus, vous ne déclenchez pas vos propres pièges.

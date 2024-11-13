@@ -1,0 +1,2 @@
+prérequis: constitution > 45
+A partir du niveau 10, en sacrifiant 1 PV, le personnage obtient un bonus de +10 sur n’importe quel test de FOR, DEX ou CON dont il ne connaît pas encore le résultat. En sacrifiant 1d4 PV, il peut obtenir le même bonus après avoir pris connaissance du résultat.

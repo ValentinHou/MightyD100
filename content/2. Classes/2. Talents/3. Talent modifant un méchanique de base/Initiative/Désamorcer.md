@@ -1,0 +1,2 @@
+prérequis: vitesse > 36
+A partir du niveau 16, vous arrivez à désamorcer les conflits avant qu’ils ne se déclarent. Vous pouvez utiliser cette capacité avant les jets d’initiative si vous n’êtes pas surpris. Vous pouvez alors utiliser trois action autre que des action d'attaque directe. Vous ne pouvez pas vous déplacer ou utiliser d’action d’attaque. Vous ne pouvez réaliser qu’une seule action par cible.

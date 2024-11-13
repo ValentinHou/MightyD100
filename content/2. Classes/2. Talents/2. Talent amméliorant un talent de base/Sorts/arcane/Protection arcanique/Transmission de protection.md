@@ -1,0 +1,3 @@
+*Prérequis : [Protection arcanique](Protection%20arcanique/Protection%20arcanique.md)*
+
+À partir du niveau 4, quand une créature que vous pouvez voir à distance courte de vous (dans un rayon de 9 mètres autour de vous) subit des dégâts, vous pouvez utiliser votre réaction et absorber ses dégâts grâce à votre Protection arcanique. Si ces dégâts réduisent le sceau à 0 point de vie, la créature protégée prend les dégâts restants.
